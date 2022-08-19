@@ -1,6 +1,7 @@
 *** Settings ***
 Documentation    Test
 Library          SeleniumLibrary
+Variables        Test1
 
 *** Test Cases ***
 OpenBrowser
